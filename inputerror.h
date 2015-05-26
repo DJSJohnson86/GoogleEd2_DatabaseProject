@@ -1,0 +1,6 @@
+#ifndef INPUTERROR_H_INCLUDED
+#define INPUTERROR_H_INCLUDED
+
+void InError();
+
+#endif // INPUTERROR_H_INCLUDED

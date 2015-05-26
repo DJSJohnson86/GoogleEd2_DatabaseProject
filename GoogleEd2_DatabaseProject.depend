@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1432507614 source:c:\users\rezdoggy\documents\c++\googleed2_databaseproject\main.cpp
+	<iostream>
+	"menu.h"
+
+1432491631 source:c:\users\rezdoggy\documents\c++\googleed2_databaseproject\inputerror.cpp
+	<iostream>
+
+1432486142 source:c:\users\rezdoggy\documents\c++\googleed2_databaseproject\yesno.cpp
+	<iostream>
+	"inputerror.h"
+	"getinfo.h"
+
+1427720156 c:\users\rezdoggy\documents\c++\googleed2_databaseproject\inputerror.h
+
+1427720156 c:\users\rezdoggy\documents\c++\googleed2_databaseproject\yesno.h
+	<iostream>
+
+1432507138 c:\users\rezdoggy\documents\c++\googleed2_databaseproject\gameinfo.h
+	<iostream>
+
+1432507138 source:c:\users\rezdoggy\documents\c++\googleed2_databaseproject\gameinfo.cpp
+	<iostream>
+
+1432513167 source:c:\users\rezdoggy\documents\c++\googleed2_databaseproject\getinfo.cpp
+	<iostream>
+	"inputerror.h"
+	<typeinfo>
+
+1432514064 source:c:\users\rezdoggy\documents\c++\googleed2_databaseproject\database.cpp
+	<iostream>
+	"gameinfo.h"
+	"getinfo.h"
+	"inputerror.h"
+	<fstream>
+	<string>
+	<sstream>
+
+1432512237 c:\users\rezdoggy\documents\c++\googleed2_databaseproject\getinfo.h
+	<iostream>
+	"getinfo.cpp"
+
+1432513393 source:c:\users\rezdoggy\documents\c++\googleed2_databaseproject\menu.cpp
+	<iostream>
+	"database.h"
+	"inputerror.h"
+	"getinfo.h"
+
+1432311432 c:\users\rezdoggy\documents\c++\googleed2_databaseproject\menu.h
+
+1432503405 c:\users\rezdoggy\documents\c++\googleed2_databaseproject\database.h
+	<iostream>
+	"gameinfo.h"
+
+1432513167 c:\users\rezdoggy\documents\c++\googleed2_databaseproject\getinfo.cpp
+	<iostream>
+	"inputerror.h"
+	<typeinfo>
+
